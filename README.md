@@ -1,3 +1,10 @@
+# 声明
+
+本仓库Fork自[moving](https://github.com/huangyz0918/moving)
+
+所有新增或修改后的衍生代码采用MIT协议开源，详情见COPYRIGHT文件
+
+
 # moving
 
 [![Gem Version](https://badge.fury.io/rb/moving.svg)](https://badge.fury.io/rb/moving) ![](https://img.shields.io/gem/dt/moving)
